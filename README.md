@@ -45,6 +45,16 @@ FilmFetch is a React-based movie search application using the OMDb API to fetch 
  ┣  README.md               → Project documentation
 
 </pre>
+ ###   Core Technologies Used
+<pre>
+ 
+  React –             Component-based UI framework 
+  Redux Toolkit –     Global state management 
+  React Router –      Handles page navigation 
+  Axios –             Fetches API data 
+  Styled Components – Custom styling 
+  React Hooks –       useState, useEffect, useRef
+</pre>
 
 
 
